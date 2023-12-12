@@ -1,0 +1,33 @@
+{
+    "common": {
+        "language_options": "РУССКИЙ"
+    },
+    "pages": {
+        "header": {
+            "option_courier": "стать курьером",
+            "contact": "контакт"
+        },
+        "work": {
+            "title": "ПОЧЕМУ РАБОТАЮТ У НАС?",
+            "description_bike": "ПРЕДОСТАВЛЯЕМ ТРАНСПОРТ",
+            "description_oil": "ОПЛАЧИВАЕМ ТОПЛИВО",
+            "description_contract": "ОФИЦИАЛЬНЫЙ КОНТРАКТ",
+            "description_money": "ДОСТОЙНАЯ ЗАРПЛАТА",
+            "description_schedule": "ГИБКИЙ ГРАФИК РАБОТЫ",
+            "description_growth": "ВОЗМОЖНОТЬ КАРЕРНОГО РОСТА"
+        },
+        "form": {
+            "title": "ЗАПОЛНИ АНКЕТУ",
+            "subtitle": "И СТАНЬ КУРЬЕРОМ ПРЯМО СЕЙЧАС",
+            "description": "Lorem"
+        },
+        "questions": {
+            "title": "ОСТАЛИСЬ ВОПРОСЫ?",
+            "description": "Lorem",
+            "contact": "СВЯЗАТЬСЯ С МЕНЕДЖЕРОМ"
+        },
+        "footer": {
+            "phone": "+420 773 920 478"
+        }
+    } 
+}
